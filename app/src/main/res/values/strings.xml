@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Photo Report</string>
+
+    <!-- Main Activity -->
+    <string name="add_report">Add Report</string>
+    <string name="view_report">View Report</string>
+    <string name="title">Title</string>
+
+    <string name="permission_dialog_title">Without Permissions</string>
+    <string name="permission_dialog_message">
+        It looks you didn\'t allow this app to use your
+        camera or external storage. This is necessary to take pictures and save then to your
+        devices. Please go to permissions screen, find MyInsta and unlock this permissions to
+        use the app.</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="retake_photo">Retake Photo</string>
+    <string name="save_photo">Save Photo</string>
+    <string name="caption">Add caption</string>
+
+    <!-- Details Activity -->
+    <string name="text_title">Title</string>
+    <string name="text_caption">Caption</string>
+    <string name="text_date">Date</string>
+
+</resources>
